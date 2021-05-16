@@ -1,0 +1,11 @@
+import java.io.*;
+class TryWith{
+	public static void main(String[] args) throws IOException{
+		try( var is = new FileInputStream("myfile.txt");
+//			FileOutputStrem os = new FileOutputStream("myfile.txt");
+			){
+			//read file
+		}
+	}
+}
+

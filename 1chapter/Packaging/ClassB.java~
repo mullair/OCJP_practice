@@ -1,0 +1,9 @@
+package packageb;
+import C:.Users.jacob.mueller.Documents.Bildung.OCP."1chapter".Packaging.packagea.ClassA;
+public class ClassB{
+	public static void main (String... args){
+		ClassA a;
+		System.out.println("Got it");
+	}
+}
+

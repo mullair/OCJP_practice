@@ -1,0 +1,7 @@
+public class Bird{
+	protected String text= "floating";
+	   public static void eatShit(){                                                               System.out.println("pfuidaibi");                                            }       
+	protected void floatInWater(){
+		System.out.println(text);
+	}
+}	

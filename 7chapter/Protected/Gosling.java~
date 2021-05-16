@@ -1,0 +1,6 @@
+package pond.shore;
+public class Gosling {
+	public static void main(String[] args){
+		pond.shore.Bird.eatShit();
+	}
+}	
